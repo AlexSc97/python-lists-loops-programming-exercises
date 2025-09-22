@@ -7,7 +7,7 @@
 
 <!-- endhide -->
 
-Las listas y los bucles son uno de los temas más desafiantes de comprender al aprender a programar. Aprenderás lo siguiente:
+Las listas y los bucles son uno de los temas más desafiantes para comprender al aprender a programar. Aprenderás lo siguiente:
 
 + Todas las formas posibles de realizar bucles en Python.
 
@@ -21,7 +21,7 @@ Estos ejercicios son colaborativos, ¡te necesitamos! Si encuentras algún error
 
 Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Codespaces](https://codespaces.new/?repo=4GeeksAcademy/python-lists-loops-programming-exercises) (recomendado) o [Abrir en Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises).
 
-> Una vez ya tengas abierto VSCode los ejercicios de LearnPack deberían empezar automáticamente, si esto no sucede puedes intentar empezar los ejercicios escribiendo este comando en tu terminal: `$ learnpack start`
+> Una vez que tengas abierto VSCode los ejercicios de LearnPack deberían empezar automáticamente, si esto no sucede puedes intentar empezar los ejercicios escribiendo este comando en tu terminal: `$ learnpack start`
 
 ## Instalación local:
 
@@ -31,7 +31,7 @@ Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Co
 $ npm i @learnpack/learnpack@2.1.20 -g && learnpack plugins:install @learnpack/python@1.0.0
 ```
 
-2. Clona o descarga este repositorio en tu ambiente local.
+2. Clona o descarga este repositorio en tu entorno local.
 
 ```bash
 $ git clone https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises.git
@@ -53,7 +53,7 @@ $ learnpack start
 
 Cada ejercicio es un pequeño proyecto en Python que contiene los siguientes archivos:
 
-1. **app.py:** representa el archivo de entrada de Python que será ejecutado en el computador.
+1. **app.py:** representa el archivo de entrada de Python que será ejecutado en la computadora.
 2. **README.md:** contiene las instrucciones del ejercicio.
 3. **test.py:** no tienes que abrir este archivo. Contiene los scripts de pruebas del ejercicio.
 
